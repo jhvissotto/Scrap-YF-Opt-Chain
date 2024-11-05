@@ -1,0 +1,8 @@
+jupyter
+nbconvert
+
+datetime
+requests
+pandas
+yfinance
+sqlite3
